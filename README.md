@@ -47,4 +47,4 @@ This project uses a simulated transactional dataset representing bar sales. The 
 3. Run the notebook from top to bottom
 
 ## Author
-Your name
+Ethan Moeller
